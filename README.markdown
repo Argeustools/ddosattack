@@ -22,4 +22,4 @@ programmed to ban IP addresses which leave an open connection for "x" amount of 
 combining this is clever and effective, making it the powerful tool it is. However, Tor'shammer is only effective to
 apache servers which do not run nginx.
 
-##By Hackers Community
+## By Hackers Community
